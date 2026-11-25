@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shotcut": {
+      "type": "http",
+      "url": "https://shotcut.ai/mcp"
+    }
+  }
+}

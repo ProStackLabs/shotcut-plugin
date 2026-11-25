@@ -1,0 +1,18 @@
+{
+  "name": "shotcut-ai",
+  "displayName": "Shotcut",
+  "version": "1.0.0",
+  "description": "Create, preview, edit, and render editable motion graphics from a conversation.",
+  "author": {
+    "name": "Pro Stack Labs",
+    "email": "support.shotcut@prostacklabs.com",
+    "url": "https://shotcut.ai"
+  },
+  "homepage": "https://shotcut.ai/support",
+  "keywords": ["motion graphics", "video", "design"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://shotcut.ai/support",
+  "supportUrl": "https://shotcut.ai/support",
+  "privacyPolicyUrl": "https://shotcut.ai/privacy",
+  "termsOfServiceUrl": "https://shotcut.ai/terms"
+}
