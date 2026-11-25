@@ -1,4 +1,4 @@
-# Shotcut Motion Graphics
+# Agentic videos by Shotcut
 
 Create editable motion graphics from a conversation with Claude. Start with a product intro, quote card, or animated statistic, preview it, revise the text and timing, inspect individual frames, and export an MP4.
 
