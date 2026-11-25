@@ -8,6 +8,7 @@
     "email": "support.shotcut@prostacklabs.com",
     "url": "https://shotcut.ai"
   },
+  "license": "LicenseRef-Proprietary",
   "homepage": "https://shotcut.ai/support",
   "keywords": ["motion graphics", "video", "design"],
   "icon": "./assets/icon.png",

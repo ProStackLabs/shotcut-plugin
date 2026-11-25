@@ -8,7 +8,7 @@ Use the Shotcut connector's tools. Keep to the design and scope the user asked f
 ## Start a project
 
 1. Call `list_templates` when a starter could fit, then `create_project` with its `templateId`. Otherwise call `create_project` without one.
-2. For custom source, read the `workflow` and `contract` topics with `get_guide` before `write_files`.
+2. For custom source, look up the composition format in the reference documentation from `get_guide` (topics `workflow` and `contract`), then call `write_files`.
 3. Import media the user supplies with `add_media`, and use the relative asset path it returns.
 
 ## Revise a project

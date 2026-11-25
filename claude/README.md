@@ -2,7 +2,7 @@
 
 Create editable motion graphics from a conversation with Claude. Start with a product intro, quote card, or animated statistic, preview it, revise the text and timing, inspect individual frames, and export an MP4.
 
-Operated by Pro Stack Labs at [shotcut.ai](https://shotcut.ai). It is separate from the open-source Shotcut desktop video editor.
+Operated by Pro Stack Labs at [shotcut.ai](https://shotcut.ai). It is not affiliated with the open-source Shotcut desktop video editor, the Shortcut project management product, or Anthropic.
 
 ## Use it
 
@@ -23,10 +23,10 @@ The plugin runs no code on your computer. It has no hooks, scripts, or package i
 
 ## Data
 
-Claude sends the tool inputs you approve to your Shotcut account at shotcut.ai: project titles, composition source, edit summaries, and any public media URL you ask to import, which Shotcut's server then downloads. Sign-in uses OAuth through Clerk. Shotcut does not receive your conversation history and does not train AI models on your content. It renders HTML and CSS compositions and does not call a generative image, video, or audio model.
+Claude sends tool inputs to your Shotcut account at shotcut.ai: project titles, composition source, edit summaries, and any public media URL you ask to import, which Shotcut's server then downloads. Sign-in uses OAuth through Clerk, which gives Shotcut your account details. Shotcut also keeps service logs, such as the tool used, the project, the result and the timing. Optional analytics run only with your consent. Shotcut does not receive your conversation history and does not train AI models on your content. It renders HTML and CSS compositions and does not call a generative image, video, or audio model.
 
 Projects are private by default, and a project link alone gives no access. Projects stay until you delete them, with older versions, frames, and renders pruned as described on the support page. Delete your account data at [shotcut.ai/account](https://shotcut.ai/account). See the [privacy policy](https://shotcut.ai/privacy), [terms](https://shotcut.ai/terms), and [service providers](https://shotcut.ai/subprocessors).
 
 ## Support
 
-support.shotcut@prostacklabs.com
+Email support.shotcut@prostacklabs.com for product help, security reports, or privacy requests. Setup and troubleshooting are on the [support page](https://shotcut.ai/support).
