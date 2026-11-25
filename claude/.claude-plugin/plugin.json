@@ -9,6 +9,7 @@
     "url": "https://shotcut.ai"
   },
   "license": "LicenseRef-Proprietary",
+  "repository": "https://github.com/ProStackLabs/shotcut-plugin",
   "homepage": "https://shotcut.ai/support",
   "keywords": ["motion graphics", "video", "design"],
   "icon": "./assets/icon.png",
